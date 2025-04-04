@@ -21,6 +21,5 @@ class Solution {
         for(int x=0;x<n1.length;x++){
             nums1[x]=n1[x];
         }
-
     }
 }
