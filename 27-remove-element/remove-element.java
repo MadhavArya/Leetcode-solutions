@@ -10,10 +10,10 @@ class Solution {
                 i++;
             }
         }
-        for(int j=0;j<nums.length;j++){
-            System.out.print(nums[j]+" ");
-        }
-        System.out.println();
+
+
+
+
         return k;
     }
 }
