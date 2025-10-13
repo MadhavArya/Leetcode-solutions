@@ -8,14 +8,6 @@ class Solution {
             
             merge+=word1.charAt(i++);
             merge+=word2.charAt(j++);
-      
-
-
-
-
-               
-
-
         }
         if(i<word1.length()){
           merge+=word1.substring(i);
@@ -23,9 +15,6 @@ class Solution {
         if(j<word2.length()){
             merge+=word2.substring(j);
         }
-
-
-
         return merge;
     }
 }
